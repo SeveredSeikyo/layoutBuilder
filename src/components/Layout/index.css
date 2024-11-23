@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.layout {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 40px;
+  gap: 10px;
+  padding: 40px;
+  height: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .layout {
+    margin: 40px 0px;
+    padding: 30px;
+  }
+}

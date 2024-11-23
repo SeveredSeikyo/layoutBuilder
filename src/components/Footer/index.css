@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.footer-container {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cbd5e1;
+  color: #475569;
+  justify-self: flex-end;
+}
